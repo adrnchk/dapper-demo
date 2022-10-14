@@ -1,0 +1,12 @@
+C:\Users\Adrian\Desktop\vork\DapperDemo\Dapper.DAL\bin\Debug\net6.0\Dapper.DAL.deps.json
+C:\Users\Adrian\Desktop\vork\DapperDemo\Dapper.DAL\bin\Debug\net6.0\Dapper.DAL.dll
+C:\Users\Adrian\Desktop\vork\DapperDemo\Dapper.DAL\bin\Debug\net6.0\Dapper.DAL.pdb
+C:\Users\Adrian\Desktop\vork\DapperDemo\Dapper.DAL\obj\Debug\net6.0\Dapper.DAL.csproj.AssemblyReference.cache
+C:\Users\Adrian\Desktop\vork\DapperDemo\Dapper.DAL\obj\Debug\net6.0\Dapper.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adrian\Desktop\vork\DapperDemo\Dapper.DAL\obj\Debug\net6.0\Dapper.DAL.AssemblyInfoInputs.cache
+C:\Users\Adrian\Desktop\vork\DapperDemo\Dapper.DAL\obj\Debug\net6.0\Dapper.DAL.AssemblyInfo.cs
+C:\Users\Adrian\Desktop\vork\DapperDemo\Dapper.DAL\obj\Debug\net6.0\Dapper.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Desktop\vork\DapperDemo\Dapper.DAL\obj\Debug\net6.0\Dapper.DAL.dll
+C:\Users\Adrian\Desktop\vork\DapperDemo\Dapper.DAL\obj\Debug\net6.0\refint\Dapper.DAL.dll
+C:\Users\Adrian\Desktop\vork\DapperDemo\Dapper.DAL\obj\Debug\net6.0\Dapper.DAL.pdb
+C:\Users\Adrian\Desktop\vork\DapperDemo\Dapper.DAL\obj\Debug\net6.0\ref\Dapper.DAL.dll
